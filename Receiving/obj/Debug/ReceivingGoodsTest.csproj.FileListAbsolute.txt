@@ -1,0 +1,16 @@
+D:\Karthik\KFIT\Poc\ReceivingGoods\Receiving\bin\Debug\Receiving.dll
+D:\Karthik\KFIT\Poc\ReceivingGoods\Receiving\bin\Debug\Receiving.pdb
+D:\Karthik\KFIT\Poc\ReceivingGoods\Receiving\bin\Debug\CommonControls.dll
+D:\Karthik\KFIT\Poc\ReceivingGoods\Receiving\bin\Debug\nunit.framework.dll
+D:\Karthik\KFIT\Poc\ReceivingGoods\Receiving\bin\Debug\ReceivingGoodsUI.exe
+D:\Karthik\KFIT\Poc\ReceivingGoods\Receiving\bin\Debug\System.Windows.Forms.dll
+D:\Karthik\KFIT\Poc\ReceivingGoods\Receiving\bin\Debug\CommonUtils.dll
+D:\Karthik\KFIT\Poc\ReceivingGoods\Receiving\bin\Debug\System.Drawing.dll
+D:\Karthik\KFIT\Poc\ReceivingGoods\Receiving\bin\Debug\CommonUtils.pdb
+D:\Karthik\KFIT\Poc\ReceivingGoods\Receiving\bin\Debug\ReceivingGoodsUI.pdb
+D:\Karthik\KFIT\Poc\ReceivingGoods\Receiving\bin\Debug\CommonControls.pdb
+D:\Karthik\KFIT\Poc\ReceivingGoods\Receiving\bin\Debug\System.Windows.Forms.xml
+D:\Karthik\KFIT\Poc\ReceivingGoods\Receiving\bin\Debug\System.Drawing.xml
+D:\Karthik\KFIT\Poc\ReceivingGoods\Receiving\obj\Debug\ResolveAssemblyReference.cache
+D:\Karthik\KFIT\Poc\ReceivingGoods\Receiving\obj\Debug\Receiving.dll
+D:\Karthik\KFIT\Poc\ReceivingGoods\Receiving\obj\Debug\Receiving.pdb

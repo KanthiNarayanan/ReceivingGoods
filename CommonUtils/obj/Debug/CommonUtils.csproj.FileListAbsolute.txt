@@ -1,0 +1,16 @@
+D:\SK\GIT\bin\Projects\ReceivingGoods\CommonUtils\bin\Debug\CommonUtils.dll
+D:\SK\GIT\bin\Projects\ReceivingGoods\CommonUtils\bin\Debug\CommonUtils.pdb
+D:\SK\GIT\bin\Projects\ReceivingGoods\CommonUtils\bin\Debug\CommonControls.dll
+D:\SK\GIT\bin\Projects\ReceivingGoods\CommonUtils\bin\Debug\CommonControls.pdb
+D:\SK\GIT\bin\Projects\ReceivingGoods\CommonUtils\obj\Debug\ResolveAssemblyReference.cache
+D:\SK\GIT\bin\Projects\ReceivingGoods\CommonUtils\obj\Debug\CommonUtils.dll
+D:\SK\GIT\bin\Projects\ReceivingGoods\CommonUtils\obj\Debug\CommonUtils.pdb
+D:\Karthik\KFIT\Poc\ReceivingGoods\CommonUtils\bin\Debug\CommonUtils.dll
+D:\Karthik\KFIT\Poc\ReceivingGoods\CommonUtils\bin\Debug\CommonUtils.pdb
+D:\Karthik\KFIT\Poc\ReceivingGoods\CommonUtils\bin\Debug\CommonControls.dll
+D:\Karthik\KFIT\Poc\ReceivingGoods\CommonUtils\bin\Debug\nunit.framework.dll
+D:\Karthik\KFIT\Poc\ReceivingGoods\CommonUtils\bin\Debug\CommonControls.pdb
+D:\Karthik\KFIT\Poc\ReceivingGoods\CommonUtils\bin\Debug\nunit.framework.xml
+D:\Karthik\KFIT\Poc\ReceivingGoods\CommonUtils\obj\Debug\ResolveAssemblyReference.cache
+D:\Karthik\KFIT\Poc\ReceivingGoods\CommonUtils\obj\Debug\CommonUtils.dll
+D:\Karthik\KFIT\Poc\ReceivingGoods\CommonUtils\obj\Debug\CommonUtils.pdb

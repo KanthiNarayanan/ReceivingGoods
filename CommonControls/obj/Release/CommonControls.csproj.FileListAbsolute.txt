@@ -1,0 +1,12 @@
+D:\SK\GIT\bin\Projects\ReceivingGoods\CommonControls\bin\Release\CommonControls.dll
+D:\SK\GIT\bin\Projects\ReceivingGoods\CommonControls\bin\Release\CommonControls.pdb
+D:\SK\GIT\bin\Projects\ReceivingGoods\CommonControls\obj\Release\ResolveAssemblyReference.cache
+D:\SK\GIT\bin\Projects\ReceivingGoods\CommonControls\obj\Release\CommonControls.dll
+D:\SK\GIT\bin\Projects\ReceivingGoods\CommonControls\obj\Release\CommonControls.pdb
+D:\Karthik\KFIT\Poc\ReceivingGoods\CommonControls\bin\Release\CommonControls.dll
+D:\Karthik\KFIT\Poc\ReceivingGoods\CommonControls\bin\Release\CommonControls.pdb
+D:\Karthik\KFIT\Poc\ReceivingGoods\CommonControls\obj\Release\ResolveAssemblyReference.cache
+D:\Karthik\KFIT\Poc\ReceivingGoods\CommonControls\obj\Release\Kits.CommonControls.BasePanel.resources
+D:\Karthik\KFIT\Poc\ReceivingGoods\CommonControls\obj\Release\CommonControls.csproj.GenerateResource.Cache
+D:\Karthik\KFIT\Poc\ReceivingGoods\CommonControls\obj\Release\CommonControls.dll
+D:\Karthik\KFIT\Poc\ReceivingGoods\CommonControls\obj\Release\CommonControls.pdb

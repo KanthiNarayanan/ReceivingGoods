@@ -1,0 +1,14 @@
+D:\SK\GIT\bin\Projects\ReceivingGoods\CommonControls\bin\Debug\CommonControls.dll
+D:\SK\GIT\bin\Projects\ReceivingGoods\CommonControls\bin\Debug\CommonControls.pdb
+D:\SK\GIT\bin\Projects\ReceivingGoods\CommonControls\obj\Debug\ResolveAssemblyReference.cache
+D:\SK\GIT\bin\Projects\ReceivingGoods\CommonControls\obj\Debug\Kits.CommonControls.BasePanel.resources
+D:\SK\GIT\bin\Projects\ReceivingGoods\CommonControls\obj\Debug\CommonControls.csproj.GenerateResource.Cache
+D:\SK\GIT\bin\Projects\ReceivingGoods\CommonControls\obj\Debug\CommonControls.dll
+D:\SK\GIT\bin\Projects\ReceivingGoods\CommonControls\obj\Debug\CommonControls.pdb
+D:\Karthik\KFIT\Poc\ReceivingGoods\CommonControls\bin\Debug\CommonControls.dll
+D:\Karthik\KFIT\Poc\ReceivingGoods\CommonControls\bin\Debug\CommonControls.pdb
+D:\Karthik\KFIT\Poc\ReceivingGoods\CommonControls\obj\Debug\ResolveAssemblyReference.cache
+D:\Karthik\KFIT\Poc\ReceivingGoods\CommonControls\obj\Debug\Kits.CommonControls.BasePanel.resources
+D:\Karthik\KFIT\Poc\ReceivingGoods\CommonControls\obj\Debug\CommonControls.csproj.GenerateResource.Cache
+D:\Karthik\KFIT\Poc\ReceivingGoods\CommonControls\obj\Debug\CommonControls.dll
+D:\Karthik\KFIT\Poc\ReceivingGoods\CommonControls\obj\Debug\CommonControls.pdb

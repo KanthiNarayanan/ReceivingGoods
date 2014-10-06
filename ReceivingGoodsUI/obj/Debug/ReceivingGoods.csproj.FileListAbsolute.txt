@@ -1,0 +1,6 @@
+D:\SK\GIT\bin\Projects\TestApp\TestApp\obj\Debug\ResolveAssemblyReference.cache
+D:\SK\GIT\bin\Projects\TestApp\TestApp\obj\Debug\kits.recvgoods.ui.MainForm.resources
+D:\SK\GIT\bin\Projects\TestApp\TestApp\obj\Debug\TestApp.Properties.Resources.resources
+D:\SK\GIT\bin\Projects\TestApp\TestApp\obj\Debug\ReceivingGoods.csproj.GenerateResource.Cache
+D:\SK\GIT\bin\Projects\TestApp\TestApp\obj\Debug\TestApp.exe
+D:\SK\GIT\bin\Projects\TestApp\TestApp\obj\Debug\TestApp.pdb

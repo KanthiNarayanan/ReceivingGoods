@@ -1,0 +1,16 @@
+D:\SK\GIT\bin\Projects\ReceivingGoods\CommonUtils\bin\Release\CommonUtils.dll
+D:\SK\GIT\bin\Projects\ReceivingGoods\CommonUtils\bin\Release\CommonUtils.pdb
+D:\SK\GIT\bin\Projects\ReceivingGoods\CommonUtils\bin\Release\CommonControls.dll
+D:\SK\GIT\bin\Projects\ReceivingGoods\CommonUtils\bin\Release\CommonControls.pdb
+D:\SK\GIT\bin\Projects\ReceivingGoods\CommonUtils\obj\Release\ResolveAssemblyReference.cache
+D:\SK\GIT\bin\Projects\ReceivingGoods\CommonUtils\obj\Release\CommonUtils.dll
+D:\SK\GIT\bin\Projects\ReceivingGoods\CommonUtils\obj\Release\CommonUtils.pdb
+D:\Karthik\KFIT\Poc\ReceivingGoods\CommonUtils\bin\Release\CommonUtils.dll
+D:\Karthik\KFIT\Poc\ReceivingGoods\CommonUtils\bin\Release\CommonUtils.pdb
+D:\Karthik\KFIT\Poc\ReceivingGoods\CommonUtils\bin\Release\CommonControls.dll
+D:\Karthik\KFIT\Poc\ReceivingGoods\CommonUtils\bin\Release\CommonControls.pdb
+D:\Karthik\KFIT\Poc\ReceivingGoods\CommonUtils\obj\Release\ResolveAssemblyReference.cache
+D:\Karthik\KFIT\Poc\ReceivingGoods\CommonUtils\obj\Release\CommonUtils.dll
+D:\Karthik\KFIT\Poc\ReceivingGoods\CommonUtils\obj\Release\CommonUtils.pdb
+D:\Karthik\KFIT\Poc\ReceivingGoods\CommonUtils\bin\Release\nunit.framework.dll
+D:\Karthik\KFIT\Poc\ReceivingGoods\CommonUtils\bin\Release\nunit.framework.xml

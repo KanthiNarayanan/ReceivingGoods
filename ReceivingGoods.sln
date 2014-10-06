@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReceivingGoodsUI", "ReceivingGoodsUI\ReceivingGoodsUI.csproj", "{AABC6ECC-B761-448D-9351-27624CF38A62}"
+	ProjectSection(ProjectDependencies) = postProject
+		{9AB1EBA3-9E78-428B-85EA-390335648B4F} = {9AB1EBA3-9E78-428B-85EA-390335648B4F}
+		{C91854FB-C00A-4F7D-AA77-3F920F17223F} = {C91854FB-C00A-4F7D-AA77-3F920F17223F}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonUtils", "CommonUtils\CommonUtils.csproj", "{C91854FB-C00A-4F7D-AA77-3F920F17223F}"
+	ProjectSection(ProjectDependencies) = postProject
+		{9AB1EBA3-9E78-428B-85EA-390335648B4F} = {9AB1EBA3-9E78-428B-85EA-390335648B4F}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonControls", "CommonControls\CommonControls.csproj", "{9AB1EBA3-9E78-428B-85EA-390335648B4F}"
+EndProject
+Project("{B900F1C2-3D47-4FEC-85B3-04AAF18C3634}") = "ReceivingGoodsInstaller", "ReceivingGoodsInstaller\ReceivingGoodsInstaller.vddproj", "{7F43CF2B-2F7D-48B6-B9E0-B9A163F3592C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReceivingGoodsTest", "Receiving\ReceivingGoodsTest.csproj", "{F4887E26-74FD-44CF-9185-625E64A4505F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{50CA0455-FEA6-440B-8B4C-372485F8B507}"
+	ProjectSection(SolutionItems) = preProject
+		LocalTestRun.testrunconfig = LocalTestRun.testrunconfig
+		ReceivingGoods.vsmdi = ReceivingGoods.vsmdi
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = ReceivingGoods.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AABC6ECC-B761-448D-9351-27624CF38A62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AABC6ECC-B761-448D-9351-27624CF38A62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AABC6ECC-B761-448D-9351-27624CF38A62}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{AABC6ECC-B761-448D-9351-27624CF38A62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AABC6ECC-B761-448D-9351-27624CF38A62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AABC6ECC-B761-448D-9351-27624CF38A62}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{C91854FB-C00A-4F7D-AA77-3F920F17223F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C91854FB-C00A-4F7D-AA77-3F920F17223F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C91854FB-C00A-4F7D-AA77-3F920F17223F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C91854FB-C00A-4F7D-AA77-3F920F17223F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AB1EBA3-9E78-428B-85EA-390335648B4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AB1EBA3-9E78-428B-85EA-390335648B4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AB1EBA3-9E78-428B-85EA-390335648B4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AB1EBA3-9E78-428B-85EA-390335648B4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F43CF2B-2F7D-48B6-B9E0-B9A163F3592C}.Debug|Any CPU.ActiveCfg = Debug
+		{7F43CF2B-2F7D-48B6-B9E0-B9A163F3592C}.Release|Any CPU.ActiveCfg = Release
+		{F4887E26-74FD-44CF-9185-625E64A4505F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4887E26-74FD-44CF-9185-625E64A4505F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4887E26-74FD-44CF-9185-625E64A4505F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4887E26-74FD-44CF-9185-625E64A4505F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
